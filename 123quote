@@ -1,0 +1,7 @@
+test.property=Rabdom Quotes!
+
+officialGreeting=Hi there, time for a randomizer!
+server.port=2244
+
+# allow for RefreshScope
+management.endpoints.web.exposure.include=*
